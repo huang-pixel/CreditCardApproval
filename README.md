@@ -8,10 +8,28 @@ The purpose of this analysis is to illustrate the machine learning and data proc
 
 
 - Generate data visualisations to understand the baseline data
-- Develop research questions on data
 - Convert data as required
 - Generate and apply models to answer research questions
 - Fine-tune model parameters to find the best model performance
+
+
+## Data overview and transformations
+
+### Description 
+
+The first step in any analysis is to obtain the [dataset](http://archive.ics.uci.edu/ml/machine-learning-databases/credit-screening/) and [codebook](http://archive.ics.uci.edu/ml/machine-learning-databases/credit-screening/crx.names). Both the dataset and the codebook can be downloaded for free from the UCI website. To protect confidentiality of the data, all attribute names and values have been changed to meaningless symbols. This database contains 690 instances, 15 attributes and 2 classes attributes () in total. There are also a few missing values(5%). 
+
+### Transformations
+
+#### In the numeric columns
+- Imputing the missing values with mean
+
+#### In the non-numeric columns 
+- imputing these missing values with the most frequent values
+
+
+
+
 
 
 
