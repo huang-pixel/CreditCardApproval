@@ -36,7 +36,7 @@ The first step in any analysis is to obtain the [dataset](http://archive.ics.uci
 - Convert the non-numeric data into numeric
 - Scale the feature values to a uniform range
 
-### Making predictions with Logistics Regression
+## Making predictions with Logistics Regression
 - Get the accuracy score and confusion matrix
 
 ### Fine-tuning model parameters
@@ -45,9 +45,12 @@ The first step in any analysis is to obtain the [dataset](http://archive.ics.uci
 ### Ranking Classifiers
 - Observation the report of classifiers
 - Draw boxplot to visualise the range of variation in accuracy
-### Result 
+
+## Result 
 - The logistics regression model and DecisionTree are able to yield an accuracy score of 100%. As for the KNN model, it achieves an accuracy of over 90 percent. 
-### Reflections
+
+
+## Reflection
 - Although the accuracy of the results is ideal, which is the best model?
 - It is possible to realise that the different models have different problems, their respective advantages and disadvantages
 - The sample data size for this study was small
