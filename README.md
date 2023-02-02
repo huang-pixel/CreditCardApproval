@@ -2,7 +2,7 @@
 
 ## Objective
 
-The purpose of this project is to illustrate the machine learning and data processing techniques learned in the project offered on the `Datacamp` website to to predict if a person's application for a credit card would get approved or not given some information about that person.  
+The purpose of this project is to illustrate the machine learning and data processing techniques learned in the project offered on the `Datacamp` website to predict if a person's application for a credit card would get approved or not given some information about that person.  
 
 I will use the Credit Approval Dataset which is a collection of credit card applications and the credit approval decisions. The data is available from the [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/credit+approval)[^1]. The implementation of the above technology consists of data visualisation, data transformation, logistics regression, decision tree. The procedure is organised as follows: 
 
